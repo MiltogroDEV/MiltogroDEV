@@ -1,8 +1,8 @@
-## Hello! My name is Emilton Neto and I'm currently a Computer Science undergraduate student.
+# Hello! My name is Emilton Neto and I'm currently a Computer Science undergraduate student.
 
-### If you want to contact me, click here [![LinkedIn](https://img.shields.io/badge/Linkedin-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/EmiltonNeto) 
+[![LinkedIn](https://img.shields.io/badge/Linkedin-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/EmiltonNeto) 
 
-# I have knowledge in all these technologies below:
+## I have knowledge in all these technologies below:
 <!-- 
 <p><a target="_blank" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/nextjs/nextjs-original-wordmark.svg" style="display: inline-block;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nextjs/nextjs-original-wordmark.svg" alt="NextJs" width="42" height="42" /></a>
 <a target="_blank" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" style="display: inline-block;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" alt="React" width="42" height="42" /></a>
@@ -20,7 +20,6 @@
 ![Java](https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg)
 ![Python](https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg)
 -->
-
 
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white) ![Javascript](https://img.shields.io/badge/Javascript-yellow?style=for-the-badge&logo=javascript&logoColor=white) ![Typescript](https://img.shields.io/badge/Typescript-blue?style=for-the-badge&logo=typescript&logoColor=white) 
 

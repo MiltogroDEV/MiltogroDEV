@@ -43,4 +43,4 @@
 
 ###
 
-<img src="https://raw.githubusercontent.com/MiltogroDEV/MiltogroDEV/output/snake.svg" alt="Snake animation"/>
+<img src="https://raw.githubusercontent.com/MiltogroDEV/output/snake.svg" alt="Snake animation"/>

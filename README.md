@@ -1,4 +1,4 @@
-<br clear="both">a
+<br clear="both">
 
 <h1 align="center">Hey! 👋 I'm Emilton Neto, Computer Science Student</h1>
 

@@ -1,9 +1,9 @@
 <br clear="both">
 
 <h1 align="center">
-  Olá! 👋 Me chamo Emilton, estuante de Ciência da Computação
+  Olá! 👋 Me chamo Emilton
   <br>
-  <h2 align="center">Atualmente Analista de Dados na <a href="https://infolight.com.br/" target="_blank" class="color: #ADD8E6; text-decoration: none;">Infolight ERP</a></h2>
+  <h2 align="center">Atualmente Analista de ERP na <a href="https://infolight.com.br/" target="_blank" class="color: #ADD8E6; text-decoration: none;">Infolight ERP</a></h2>
 </h1>
 
 

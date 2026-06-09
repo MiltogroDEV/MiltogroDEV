@@ -3,7 +3,7 @@
 <h1 align="center">
   Olá! 👋 Me chamo Emilton Neto
   <br>
-  <h2 align="center">Atualmente Analista de ERP na <a href="https://infolight.com.br/" target="_blank" class="color: #ADD8E6; text-decoration: none;">Infolight</a></h2>
+  <h2 align="center">Estudante de Ciência da Computação, experiênciado como Analista de Suporte em Sistemas Fiscais</h2>
 </h1>
 
 

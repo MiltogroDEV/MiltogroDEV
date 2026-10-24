@@ -41,15 +41,3 @@
     <img src="https://img.shields.io/static/v1?message=dev.to&logo=dev.to&label=&color=0A0A0A&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="devto logo" />
   </a>
 </div>
-
-###
-
-<br clear="both">
-
-<div align="center">
-  <!--
-  <img src="https://streak-stats.demolab.com?user=MiltogroDEV&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=MiltogroDEV&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
-  -->
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=MiltogroDEV&radius=16&theme=dracula&area=true&order=5" height="300" alt="activity-graph graph"  />
-</div>

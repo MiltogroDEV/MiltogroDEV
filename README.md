@@ -1,9 +1,9 @@
 <br clear="both">
 
 <h1 align="center">
-  Olá! 👋 Me chamo Emilton Neto
+  Olá, tudo bem? Me chamo Emilton Neto
   <br>
-  <h2 align="center">Estudante de Ciência da Computação, experiênciado como Analista de Suporte em Sistemas Fiscais</h2>
+  <h2 align="center">Sou Analista de Suporte no time da SOVIS, atualmente graduando em Ciência da Computação</h2>
 </h1>
 
 
